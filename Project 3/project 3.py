@@ -21,7 +21,7 @@ num_speed_of_light = miles * SPEED_OF_LIGHT_PER_HOUR
 print "Converted to barleycorn/day is: %f" % num_barleycorn
 print "Converted to furlongs/fortnight is: %f" % num_furlongs
 print "Converted to Mach number is: %f" % num_mach
-print "Converted to PSL is: %e" % num_speed_of_light
+print "Converted to Percentage of Speed of Light is: %e" % num_speed_of_light
 
 # print "%.1f gallons is the equivalent of %f liters" % (num_gallons, num_liters)
 # print "%.1f gallons requires %f barrels" % (num_gallons, num_barrels)
